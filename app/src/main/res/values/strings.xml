@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">HelloBottomNavigator</string>
+
+    <string name="lbl_bottom_navigator">Bottom Navigator</string>
+
+    <string name="lbl_home">Home</string>
+    <string name="lbl_notification">Notification</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="lbl_description">PADC Myanmar</string>
+    <string name="lbl_bottom_sheet">Bottom Sheet</string>
+    <string name="lbl_other_common_ui_element">Other Common UI Element</string>
+    <string name="lbl_normal_material_button">Normal Material Button</string>
+    <string name="lbl_text_material_button">Text Material Button</string>
+    <string name="lbl_outline_material_button">Outline Material Button</string>
+    <string name="lbl_text_chip">I\'m chip</string>
+    <string name="lbl_icon_chip">Icon chip</string>
+    <string name="lbl_checkable_chip">Checkable Chip</string>
+    <string name="lbl_choice_chip">Choice Chip</string>
+    <string name="lbl_filter_chip">Filter Chip</string>
+    <string name="lbl_entry_chip">Entry Chip</string>
+    <string name="action_chip">Action Chip</string>
+    <string name="lbl_this">This</string>
+    <string name="lbl_is">is</string>
+    <string name="lbl_padc">PADC</string>
+    <string name="lbl_myanmar">Myanmar</string>
+    <string name="lbl_foundation">Foundation</string>
+    <string name="lbl_learning">Learning</string>
+    <string name="lbl_portal">Portal</string>
+    <string name="lbl_hint_enter_keyboard">Enter keyboard</string>
+
+    <string name="lbl_text">a book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical forma book or other written or printed work, regarded in terms of its content rather than its physical form</string>
+    <string name="lbl_collapsing_tool_bar">Collapsing Tool Bar</string>
+    <string name="lbl_import">Import</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="lbl_slideshow">Slideshow</string>
+    <string name="lbl_tools">Tools</string>
+    <string name="lbl_share">Share</string>
+    <string name="lbl_send">Send</string>
+    <string name="lbl_android_studio">Android Studio</string>
+    <string name="lbl_android_studio_android_com">android.studion@android.com</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="lbl_hello_world">Hello World</string>
+    <string name="lbl_app_bar">App Bar</string>
+
+</resources>

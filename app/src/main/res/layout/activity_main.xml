@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MainActivity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnBottomNavigator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_app_bar"
+        android:layout_marginTop="@dimen/margin_large_28"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnBottomNavigator"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnBottomNavigatorWithViewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottom Navigator With ViewPager"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnBottomNavigatorWithViewPager"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnAppBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App Bar"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnBottomNavigatorWithViewPager"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnBottomSheet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottom Sheet"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnBottomSheet"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnMaterialComponent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Material Component"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnMaterialComponent"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnCollapsing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Collapsing"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnCollapsing"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnCoordinator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coordinator"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnCoordinator"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnDrawer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drawer "
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnDrawer"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnSwipe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Swipe Refresh"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_below="@id/BtnSwipe"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/BtnConstraint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Constraint Layout"
+        android:layout_marginTop="@dimen/margin_medium"/>
+
+
+
+
+</RelativeLayout>

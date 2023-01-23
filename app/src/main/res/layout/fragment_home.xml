@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_one"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_home"
+        android:textSize="@dimen/text_heading_1x"
+        android:textColor="@color/black_full"/>
+
+    <include
+        android:id="@+id/vpCustom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/custom_view_pod"
+        android:layout_marginTop="@dimen/margin_medium_3"/>
+
+</LinearLayout>
